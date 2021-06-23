@@ -45,16 +45,16 @@ window.addEventListener("DOMContentLoaded", () => {
       o: ["Sydney", "Canberra", "Melbourne", "Perth"],
       a: 1,
     },
-    // {
-    //   q: 'What is the capital of India?',
-    //   o: ['Delhi', 'Hyderabad', 'Chennai', 'Mumbai'],
-    //   a: 0,
-    // },
-    // {
-    //   q: 'When did our JWD cohort-5 started',
-    //   o: ['December', 'May', 'April', 'August'],
-    //   a: 2,
-    // },
+    {
+      q: 'What is the capital of India?',
+      o: ['Delhi', 'Hyderabad', 'Chennai', 'Mumbai'],
+      a: 0,
+    },
+    {
+      q: 'When did our JWD cohort-5 started',
+      o: ['December', 'May', 'April', 'August'],
+      a: 2,
+    },
   ];
 
   // function to Display the quiz questions and answers from the object
