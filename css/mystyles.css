@@ -1,0 +1,18 @@
+body{
+    vertical-align: center;
+    /* background-color:rgba(14, 245, 245, 0.3); */
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    /* background: linear-gradient(to bottom right, rgba(29, 224, 208, 0.3) 0% , rgba(37, 245, 30, 0.3) 100%); */
+    background-repeat: no-repeat;
+    background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 80%);
+}
+.list-group{
+    box-shadow: 10px 5px 5px rgba(56, 44, 44, 0.318);
+}
+.list-group-item{
+    background-color: rgba(251, 139, 139, 0.318);
+}
+.card{
+    box-shadow: 10px 5px 5px rgba(56, 44, 44, 0.318);
+}
