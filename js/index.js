@@ -97,8 +97,9 @@ window.addEventListener("DOMContentLoaded", () => {
         }
       }
     });
-    document.getElementById("score").innerHTML = `Your Score is: ${score}`;
+    document.getElementById("score").innerHTML = `Your Score is: ${score} / 5`;
     document.getElementById("time").innerHTML = "0";
+    document.getElementById("btnSubmit").style.display="none";
   };
 
   // call the displayQuiz function
